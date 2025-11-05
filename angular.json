@@ -26,6 +26,12 @@
             ],
             "styles": [
               "src/styles.css"
+            ],
+            "externalDependencies": [
+              "bootstrap",
+              "admin-lte", 
+              "@fortawesome/fontawesome-free",
+              "jquery"
             ]
           },
           "configurations": {
