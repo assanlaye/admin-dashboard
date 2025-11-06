@@ -1,3 +1,3 @@
 [build]
 command = 'ng build --configuration production'
-publish = 'dist/admin-dashboard'
+publish = 'dist/admin-dashboard/browser'
